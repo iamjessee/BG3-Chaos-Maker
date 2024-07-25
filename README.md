@@ -10,3 +10,5 @@ This C# program lets you enter the total number of dialogue options you have bef
 ## Getting Started
 ### Prerequisites
 - [.NET SDK](https://dotnet.microsoft.com/download) (ensure it's installed)
+
+![Random Dialogue Option Selector](https://github.com/iamjessee/BG3-Chaos-Maker/blob/master/Images/BG3CM_SCH.png?raw=true)
